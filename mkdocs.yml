@@ -1,1 +1,12 @@
 site_name: My First Documentation
+
+extra:
+  social:
+    -icon: fontawesome/brands/github-alt
+    
+    -icon: fontawesome/brands/twitter
+    
+    -icon: fontawesome/brands/linkedin
+    
+copyright: |
+  &copy:2023 <a href="www.google.com" target="_blank rel="noopener">Google</a>
